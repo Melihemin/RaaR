@@ -65,3 +65,13 @@ the wiki:
 ## Credits
 
 RaaR is an open source project, supported by many.
+
+## Pictures
+
+<p align="center">
+	<img src="https://github.com/Melihemin/RaaR/blob/main/picture/Arduino-Radar-Circuit-Schematics.png" width="50%" /></p>
+## From within the app
+<p align="center">
+	<img src="https://github.com/Melihemin/RaaR/blob/main/picture/pic-1.png" width="50%" />
+	<img src="https://github.com/Melihemin/RaaR/blob/main/picture/pic-2.png" width="50%" />
+</p>
